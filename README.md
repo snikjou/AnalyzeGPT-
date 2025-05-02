@@ -1,2 +1,2 @@
 # AnalyzeGPT-
-Use of an AI agent GPT-based model for data analysis
+Use of a GPT-based AI agent for data analysis
